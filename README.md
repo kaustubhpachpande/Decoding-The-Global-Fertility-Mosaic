@@ -4,3 +4,4 @@
 - Applied multiple regression models and ANOVA in RStudio to evaluate socioeconomic, educational, and policy-driven impacts on fertility rates.
 - Developed interactive Tableau dashboards to visualize fertility rate trends and forecast changes over the next decade.
 - Tools used include RStudio and Tableau.
+- Includes a pdf file wherein all inferences, and implications of data analysis (done in RStudio and Tableau) are presented.
